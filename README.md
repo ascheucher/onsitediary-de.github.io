@@ -1,6 +1,6 @@
 # Content of blog-de.onsitediary.com
 
-This is the content of the jekyll driven blog living under blog-de.onsitediary.com
+This is the content of the jekyll driven blog living under [blog-de.onsitediary.com](http://blog-de.onsitediary.com)
 
 # License
 The following directories and their contents are Copyright Tanja Kühberger, Andreas Scheucher and the Company "earlybird - Mehr Zeit für Architektur". You may not reuse anything therein without my permission:
