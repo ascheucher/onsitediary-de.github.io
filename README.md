@@ -8,4 +8,4 @@ The following directories and their contents are Copyright Tanja Kühberger, And
 _posts/
 images/
 
-All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/mojombo/jekyll would be appreciated, but is not required.
+All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/onsitediary-de/onsitediary-de.github.io would be appreciated, but is not required.
